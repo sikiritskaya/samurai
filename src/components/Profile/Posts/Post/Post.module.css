@@ -1,0 +1,8 @@
+.item{
+    font-size: 15px;
+    color:darkcyan
+}
+.item img{
+    width: 40px;
+    object-fit: contain;
+}

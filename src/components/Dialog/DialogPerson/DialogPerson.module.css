@@ -1,0 +1,12 @@
+.item{
+    text-decoration: none;
+    color: #000;
+}
+a.active{
+    color: rgb(178, 159, 187);
+    font-size: 17px;
+    text-decoration: none;
+}
+img{
+    width: 30px;
+}

@@ -1,0 +1,39 @@
+.users{
+    display: flex;
+    width: 100%;
+    margin-bottom: 5px;
+}
+.left_side{
+    width: 10%;
+}
+.left_side img{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+button{
+    width: 70px;
+}
+.right_side{
+    border: solid 1px grey;
+    width: 50%;
+    border-radius: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.selected{
+    font-weight: bold;
+    cursor: pointer;
+    border: solid 1px;
+    margin: 1px;
+}
+.pagination{
+    cursor: pointer;
+    border: solid 1px;
+    margin: 1px;
+}
+.button_page{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,14 @@
+.nav{
+    background-color: rgb(178, 159, 187);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.item{
+    text-decoration: none;
+    color: #fff;
+}
+a.active{
+    color: black;
+    font-size: 17px;
+    text-decoration: none;
+}

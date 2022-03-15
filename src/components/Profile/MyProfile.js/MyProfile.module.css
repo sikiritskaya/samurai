@@ -1,0 +1,10 @@
+.image_back img{
+    object-fit: contain;
+    width: 100%;
+  }
+  .avatar{
+    display: flex;
+  }
+  .avatar img{
+    width: 100px;
+  }
